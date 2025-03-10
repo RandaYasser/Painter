@@ -1,7 +1,5 @@
 The **Painter Applet** is a Java-based drawing application that allows users to create and manipulate shapes on a canvas. It provides a variety of tools for drawing lines, rectangles, ovals, freehand sketches, and erasing. Additionally, it supports features like saving and loading drawings, undo functionality, and customizable drawing styles (solid or dotted lines, filled shapes).
 
-This documentation provides an overview of the project, its structure, and how to use the application.
-
 ------------------------------------------------------------------------
 
 ## Table of Contents
