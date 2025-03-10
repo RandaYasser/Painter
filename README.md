@@ -102,8 +102,7 @@ The `Painter` class is the main applet that handles the user interface, mouse ev
 - **Load**:
   - Click the "Open" button to load a previously saved drawing.
 
-|  |
-|----|
-| \## How to Run |
-| 1. Compile the code using `javac`. |
-| 2. Launch the applet using an applet viewer or embed it in an HTML file for browser execution. |
+
+### How to Run 
+1. Compile the code using `javac`. 
+2. Launch the applet using an applet viewer or embed it in an HTML file for browser execution. 
